@@ -35,9 +35,7 @@ validation, Deflated Sharpe Ratio, Monte Carlo simulation, market-impact-aware t
 🔗 [Live app](https://kse-backtest-platform.streamlit.app)
 
 **[Entrepreneurial Ecosystems Dashboard](https://github.com/KhalidelShrbini/entrepreneurial-ecosystems-dashboard)**
-— [ONE LINE: what question this dashboard answers, e.g. "Comparative dashboard of startup ecosystem
-health across X countries"]. SQL for [data extraction / querying a dataset of Y], Excel for
-[financial modeling / scenario analysis], pandas for [cleaning / transformation].
+— Live dashboard scoring entrepreneurial ecosystem readiness across fragile and emerging markets, using World Bank data. SQL (CTEs, window functions) for the composite scoring model, Python/pandas for the live API pipeline, Streamlit/Plotly for the interactive visualizations, including a choropleth map, treemap, and correlation analysis. [Live app].
 
 ---
 
