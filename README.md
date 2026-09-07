@@ -32,9 +32,9 @@ Featured Projects
 **[Quantitative Backtesting Platform](https://github.com/KhalidelShrbini/kse-backtest-platform)** — Live
 multi-asset strategy backtesting terminal (Streamlit/Python), covering 100+ global equities. Walk-forward
 validation, Deflated Sharpe Ratio, Monte Carlo simulation, market-impact-aware transaction costs.
-🔗 [Live app](https://kse-backtest-platform.streamlit.app)
+ [Live app](https://kse-backtest-platform.streamlit.app)
 
-**[Entrepreneurial Ecosystems Dashboard](https://github.com/KhalidelShrbini/entrepreneurial-ecosystems-dashboard)** — Live dashboard scoring entrepreneurial ecosystem readiness across fragile and emerging markets, using World Bank data. SQL (CTEs, window functions) for the composite scoring model, Python/pandas for the live data pipeline, Streamlit/Plotly for the visualizations (choropleth map, treemap, correlation analysis). [Live app](https://entrepreneurial-ecosystems-dashboard.streamlit.app)
+**[Entrepreneurial Ecosystems Dashboard](https://github.com/KhalidelShrbini/entrepreneurial-ecosystems-dashboard)** — Live dashboard scoring entrepreneurial ecosystem readiness across fragile and emerging markets, using World Bank data. SQL (CTEs, window functions) for the composite scoring model, Python/pandas for the live data pipeline, Streamlit/Plotly for the visualizations (choropleth map, treemap, correlation analysis). [Live app](https://khalid-entrepreneurial-ecosystems.streamlit.app)
 
 ---
 
