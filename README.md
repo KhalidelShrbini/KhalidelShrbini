@@ -25,7 +25,7 @@ k.el.shrbini@student.vu.nl · [LinkedIn](https://linkedin.com/in/khalid-elsherbi
 
 ---
 
-** Featured Projects **
+Featured Projects
 
 **[Quantitative Backtesting Platform](https://github.com/KhalidelShrbini/kse-backtest-platform)** — Live
 multi-asset strategy backtesting terminal (Streamlit/Python), covering 100+ global equities. Walk-forward
