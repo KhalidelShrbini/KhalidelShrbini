@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm just figuring my way out with data, having fun, and learning a lot through the process :)
-
-Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
+MSc Finance student at Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance). I like building things that turn raw financial and economic data into something you can actually act on.
 
 
 Amsterdam, NL.
@@ -35,7 +33,7 @@ validation, Deflated Sharpe Ratio, Monte Carlo simulation, market-impact-aware t
 🔗 [Live app](https://kse-backtest-platform.streamlit.app)
 
 **[Entrepreneurial Ecosystems Dashboard](https://github.com/KhalidelShrbini/entrepreneurial-ecosystems-dashboard)**
-— Live dashboard scoring entrepreneurial ecosystem readiness across fragile and emerging markets, using World Bank data. SQL (CTEs, window functions) for the composite scoring model, Python/pandas for the live API pipeline, Streamlit/Plotly for the interactive visualizations, including a choropleth map, treemap, and correlation analysis. [Live app].
+— Live dashboard scoring entrepreneurial ecosystem readiness across fragile and emerging markets, using World Bank data. SQL (CTEs, window functions) for the composite scoring model, Python/pandas for the live data pipeline, Streamlit/Plotly for the visualizations (choropleth map, treemap, correlation analysis). Live app
 
 ---
 
