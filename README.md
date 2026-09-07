@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
-Ex-CIB, Microdontic, NBE. 
+
 
 Amsterdam, NL.
 
