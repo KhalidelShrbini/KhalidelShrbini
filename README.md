@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Finance student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
 Ex-CIB, Microdontic, NBE. Amsterdam, NL.
 
-📫 k.el.shrbini@student.vu.nl · [LinkedIn](https://linkedin.com/in/khalid-elsherbiny)
+k.el.shrbini@student.vu.nl · [LinkedIn](https://linkedin.com/in/khalid-elsherbiny)
 
 ---
 
