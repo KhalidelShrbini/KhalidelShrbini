@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
 Ex-CIB, Microdontic, NBE. 
+
 Amsterdam, NL.
 
 k.el.shrbini@student.vu.nl · [LinkedIn](https://linkedin.com/in/khalid-elsherbiny)
 
 ---
 
-**🔧 Featured projects**
+** Featured Projects**
 
 **[Quantitative Backtesting Platform](https://github.com/KhalidelShrbini/kse-backtest-platform)** — Live
 multi-asset strategy backtesting terminal (Streamlit/Python), covering 100+ global equities. Walk-forward
