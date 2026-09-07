@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Khalid El Shrbini
 
-
+I am figuring my way out with data :)
 Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
 
 
