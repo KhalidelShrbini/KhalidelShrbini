@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Khalid El Shrbini
 
+
 Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
 Ex-CIB, Microdontic, NBE. 
 
