@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm just figuring my way out with data :)
+I'm just figuring my way out with data and having fun (and learning lots) through the process :)
 
 Finance master's student @ Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
 
