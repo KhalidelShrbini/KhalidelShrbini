@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-MSc Finance student at Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance). I like building things that turn raw financial and economic data into something you can actually act on.
+MSc Finance student at Vrije Universiteit Amsterdam (Honours Programme, Corporate Finance).
+I like building things that turn raw financial and economic data into something you can actually act on.
 
 
 Amsterdam, NL.
